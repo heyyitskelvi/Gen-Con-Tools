@@ -33,9 +33,9 @@ This script allows you to export the events on your Schedule page as a .ics file
 To use these TamperMonkey scripts, follow these steps:
 
 1. Install TamperMonkey for your browser:
-    - [Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+    - [Chrome Web Store](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
     - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-    - [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+    - [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd)
     - [Safari App Store](https://apps.apple.com/us/app/tampermonkey/id1482490089)
 
 2. Open TamperMonkey and create a new script for each tool by copying and pasting the corresponding script file content directly from the repository.
