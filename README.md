@@ -1,3 +1,4 @@
+# MOST OF THESE ARE BROKEN AS OF 2025
 # Gen Con Tools
 
 Welcome to the Gen Con Tools repository! This project contains a set of TamperMonkey scripts designed to enhance your Gen Con experience by providing additional functionalities for managing hotels, tickets, and event schedules.
